@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Acer VanWallendael
+*Genetic diversity in locally adapted and invasive plants*
+
+###About
+
+I am a postdoc at Michigan State University in Lansing, MI. I work in the [Lowry lab]( studying the genetic basis of biofuel switchgrass interactions with leaf fungi, and the evolution of weediness in relatives of the drought-tolerant grain crop proso millet.
+
+I am a plant evolutionary ecologist interested in how genetic variation can determine how constrained populations are to particular environments. I study both locally adapted plants and invasive ones, using population and quantitative genetic approaches to determine the contribution of genetic variation to success across habitats. My research has explored the roles of both abiotic factors such as climate and biotic factors such as the fungal microbiome interacting with genetic diversity to control species ranges.
+
+
 
 You can use the [editor on GitHub](https://github.com/avanwallendael/avanwallendael.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
