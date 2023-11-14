@@ -11,6 +11,7 @@ title: Acer VanWallendael
 - [Research](#Research)
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
 
 ## About
 
@@ -28,4 +29,4 @@ One of the most amazing attributes of that natural world is that it becomes endl
 
 My teaching philosophy rests on the idea that, as long as they have been provided with the appropriate tools and inspiration, students learn best when they are free to choose topics that interest them. I have applied this philosophy in several classes over my career, with some truly outstanding results. Below are some educational materials I have designed, and some outcomes of exercises from my students. 
 
-## Test1
+## test2
