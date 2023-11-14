@@ -3,7 +3,7 @@
 
 - [About](#About)
 - [Research](#Research)
-- [Teaching[(#Teaching)
+- [Teaching](#Teaching)
 
 ## About
 
