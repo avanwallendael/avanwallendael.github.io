@@ -1,6 +1,10 @@
 ## Acer VanWallendael
 *Genetic diversity in locally adapted and invasive plants*
 
+- [About](#About)
+- [Research](#Research)
+- [Teaching[(#Teaching)
+
 ## About
 
 I am a postdoc at Michigan State University in Lansing, MI. I work in the Lowry lab studying the genetic basis of biofuel switchgrass interactions with leaf fungi, and the evolution of weediness in relatives of the drought-tolerant grain crop proso millet.
