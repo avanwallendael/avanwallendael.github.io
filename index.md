@@ -17,7 +17,7 @@
 
 ## Acer VanWallendael
 
-[Go to Test Page](test-page.md)
+[Go to Test Page](test_page.md)
 
 ## About
 
