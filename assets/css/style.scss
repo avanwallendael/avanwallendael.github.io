@@ -17,7 +17,7 @@ body {
     margin: 0;
     padding: 0;
     /* box-sizing: border-box;*/
-    width: 90%;
+    width: 100%;
 }
 
 header {
@@ -25,12 +25,12 @@ header {
     color: #606C38;
     padding: 1em;
     text-align: center;
-    width: 90%;
+    width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
     color: #606C38; /* Change the color of all headers*/
-    width: 90%;
+    width: 100%;
 }
 
 #container {
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   background:transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat
 }
 .inner {
-  width: 90%;
+  width: 100%;
   margin:0 auto
 }
 
@@ -87,7 +87,7 @@ main {
     padding: 0;
     background-color: #606C38;
     color: #DDA15E;
-    width: 90%;
+    width: 100%;
     max-width: 800px;
 }
 
