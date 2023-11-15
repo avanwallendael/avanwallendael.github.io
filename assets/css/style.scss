@@ -3,15 +3,16 @@
 
 @import "{{ site.theme }}";
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif; 
+    color: #283618;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 header {
-    background-color: #FEFAE0;
-    color: white;
+    background-color: #606C38;
+    color: #606C38;
     padding: 1em;
     text-align: center;
 }
@@ -39,6 +40,7 @@ nav a:hover {
 
 main {
     padding: 30px;
+    background-color: #606C38;
 }
 
 section {
