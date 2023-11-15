@@ -4,6 +4,7 @@
       <a href="#Teaching" class="cta-button">Teaching</a>
       <a href="#Research" class="cta-button">Research</a>
       <a href="#Footer" class="cta-button">Test</a>
+      <a href="#Contact" class="cta-button">TEST2</a>
   </div>
   <!-- Add content or text for the banner here if needed -->
       
@@ -33,6 +34,30 @@ One of the most amazing attributes of that natural world is that it becomes endl
 My teaching philosophy rests on the idea that, as long as they have been provided with the appropriate tools and inspiration, students learn best when they are free to choose topics that interest them. I have applied this philosophy in several classes over my career, with some truly outstanding results. Below are some educational materials I have designed, and some outcomes of exercises from my students. 
 
 ## test8
+
+ Ensure Correct Header IDs:
+        Double-check that the href values of your buttons match the IDs of the corresponding headers. For example, if you have a button with href="#About", there should be a header with id="About".
+
+   Check for Typos:
+        Verify that there are no typos or case sensitivity issues in the header IDs and button href values. They must match exactly.
+
+   Verify Proper Markdown Header Syntax:
+        Ensure that your Markdown headers are written with the correct syntax. For example, ## About, ## Teaching, and ## Research.
+
+   Check for Other JavaScript or CSS Conflicts:
+        If you have custom JavaScript or CSS in your project, there might be conflicts. Try temporarily disabling other scripts or styles to see if the issue persists.
+
+   Use Full URLs for Local Anchors (Optional):
+        While not always necessary, you can try using full URLs for local anchors. For example, href="#About" could be written as href="http://yoursite.com#About".
+
+   Ensure Content is Loaded:
+        Ensure that the content corresponding to the headers is loaded and available on the page. If the content is dynamically loaded, make sure it's loaded before attempting to scroll.
+
+   Test in Different Browsers:
+        Test the behavior in different web browsers to see if the issue is browser-specific.
+
+   Check Browser Console for Errors:
+        Open the browser console (usually by pressing F12 or right-clicking and selecting "Inspect" then going to the "Console" tab) and check for any errors related to JavaScript or anchor scrolling.
 
 # Footer
 
