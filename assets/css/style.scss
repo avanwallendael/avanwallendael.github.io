@@ -63,13 +63,13 @@ h2, h3, h4, h5, h6 {
 }
 
 nav {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 10px;
-  z-index: 1;
+    position: absolute;
+    top: 50%; /* Position the navigation links vertically centered */
+    left: 50%; /* Position the navigation links horizontally centered */
+    transform: translate(-50%, -50%); /* Center the navigation links precisely */
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    z-index: 1;
 }
 
 nav ul {
