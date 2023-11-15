@@ -1,10 +1,10 @@
 <div id="banner">
   <div class="cta-buttons">
-      <a href="#About" class="cta-button">About</a>
-      <a href="#Teaching" class="cta-button">Teaching</a>
-      <a href="#Research" class="cta-button">Research</a>
-      <a href="#Footer" class="cta-button">Test</a>
-      <a href="#Contact" class="cta-button">TEST2</a>
+      <a href="#about" class="cta-button">About</a>
+      <a href="#teaching" class="cta-button">Teaching</a>
+      <a href="#research" class="cta-button">Research</a>
+      <a href="#footer" class="cta-button">Test</a>
+      <a href="#contact" class="cta-button">TEST2</a>
   </div>
   <!-- Add content or text for the banner here if needed -->
       
