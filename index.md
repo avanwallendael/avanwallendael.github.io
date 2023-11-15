@@ -2,9 +2,9 @@
   VANLAB  
   <!-- Add content or text for the banner here if needed -->
   
-  [About](#About) | [Research](#Research) | [Teaching](#Teaching)
 </div>
 
+[About](#About) | [Research](#Research) | [Teaching](#Teaching)
 
 ## Acer VanWallendael
 *Genetic diversity in locally adapted and invasive plants*
