@@ -11,7 +11,7 @@
   </div>
 </div>
 
-[About](#About) | [Research](#Research) | [Teaching](#Teaching)
+<!--[About](#About) | [Research](#Research) | [Teaching](#Teaching)-->
 
 ## Acer VanWallendael
 
