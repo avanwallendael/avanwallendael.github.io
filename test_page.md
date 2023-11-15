@@ -1,8 +1,8 @@
 # Test Page
 
 [Go to Section 1](#Section1)
-[Go to Section 2](#Section2)
-[Go to Section 3](#Section3)
+[Go to Section 2](#section-2)
+[Go to Section 3](#section3)
 
 ## Title
 
