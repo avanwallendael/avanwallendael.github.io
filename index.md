@@ -3,6 +3,7 @@
       <a href="#About" class="cta-button">About</a>
       <a href="#Teaching" class="cta-button">Teaching</a>
       <a href="#Research" class="cta-button">Research</a>
+      <a href="#Footer" class="cta-button">Test</a>
   </div>
   <!-- Add content or text for the banner here if needed -->
       
