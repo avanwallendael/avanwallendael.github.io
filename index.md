@@ -3,8 +3,6 @@
       <a href="#about" class="cta-button">About</a>
       <a href="#teaching" class="cta-button">Teaching</a>
       <a href="#research" class="cta-button">Research</a>
-      <a href="#footer" class="cta-button">Test</a>
-      <a href="#contact" class="cta-button">TEST2</a>
   </div>
   <!-- Add content or text for the banner here if needed -->
       
