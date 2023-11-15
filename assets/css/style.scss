@@ -2,6 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+
+.site-title {
+  color: transparent !important;
+  background: none !important;
+  border: none !important;
+  text-shadow: none !important;
+}
+
 body {
     font-family: 'Roboto', sans-serif; 
     color: #283618;
