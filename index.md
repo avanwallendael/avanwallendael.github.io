@@ -1,13 +1,14 @@
 <div id="banner">
   VANLAB  
   <!-- Add content or text for the banner here if needed -->
+  
+  [About](#About) | [Research](#Research) | [Teaching](#Teaching)
 </div>
 
 
 ## Acer VanWallendael
 *Genetic diversity in locally adapted and invasive plants*
 
-[About](#About) | [Research](#Research) | [Teaching](#Teaching)
 
 ## About
 
