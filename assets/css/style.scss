@@ -17,6 +17,10 @@ header {
     text-align: center;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    color: blue; /* Change the color of all headers to blue */
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
