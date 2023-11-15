@@ -8,7 +8,7 @@
       
   <h1>Welcome to VANLAB</h1>
   <p>Genetic diversity in locally adapted and invasive plants</p>
-  
+  <p>WEBSITE UNDER CONSTRUCTION</p>
 </div>
 
 <!--[About](#About) | [Research](#Research) | [Teaching](#Teaching)-->
