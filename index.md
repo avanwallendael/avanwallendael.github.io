@@ -1,7 +1,7 @@
 <div id="banner">
   VANLAB  
   <!-- Add content or text for the banner here if needed -->
-  
+  <a href="#Contact" class="cta-button">Contact</a>
 </div>
 
 [About](#About) | [Research](#Research) | [Teaching](#Teaching)
@@ -29,3 +29,69 @@ My teaching philosophy rests on the idea that, as long as they have been provide
 ## test8
 
 # Footer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Contact 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
