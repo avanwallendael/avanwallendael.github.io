@@ -2,7 +2,7 @@
 
 <style>
 #banner {
-    background-image: url("{{ '/assets/field.jpg' | relative_url }}");
+    background-image: url("{{ '/assets/images/field.jpg' | relative_url }}");
     background-size: cover;
     background-position: center;
     height: 300px; /* Set the height of the banner */
