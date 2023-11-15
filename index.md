@@ -1,18 +1,3 @@
-
-
-<style>
-#banner {
-    background-image: url("{{ '/assets/images/field.jpg' | relative_url }}");
-    background-size: cover;
-    background-position: center;
-    height: 300px; /* Set the height of the banner */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white; /* Set text color for the banner content */
-}
-</style>
-
 ## Banner
 
 <div id="banner">
