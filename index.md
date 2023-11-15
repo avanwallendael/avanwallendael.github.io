@@ -1,3 +1,26 @@
+
+
+<style>
+#banner {
+    background-image: url("{{ '/assets/field.jpg' | relative_url }}");
+    background-size: cover;
+    background-position: center;
+    height: 300px; /* Set the height of the banner */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Set text color for the banner content */
+}
+</style>
+
+## Banner
+
+<div id="banner">
+  VANLAB  
+  <!-- Add content or text for the banner here if needed -->
+</div>
+
+
 ## Acer VanWallendael
 *Genetic diversity in locally adapted and invasive plants*
 
