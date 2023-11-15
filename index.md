@@ -1,14 +1,19 @@
 <div id="banner">
   VANLAB  
   <!-- Add content or text for the banner here if needed -->
-  <a href="#Contact" class="cta-button">Contact</a>
+      
+  <h1>Welcome to VANLAB</h1>
+  <p>Genetic diversity in locally adapted and invasive plants</p>
+  <div class="cta-buttons">
+      <a href="#About" class="cta-button">About</a>
+      <a href="#Teaching" class="cta-button">Teaching</a>
+      <a href="#Research" class="cta-button">Research</a>
+  </div>
 </div>
 
 [About](#About) | [Research](#Research) | [Teaching](#Teaching)
 
 ## Acer VanWallendael
-*Genetic diversity in locally adapted and invasive plants*
-
 
 ## About
 
