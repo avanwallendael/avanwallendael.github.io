@@ -37,39 +37,39 @@ My teaching philosophy rests on the idea that, as long as they have been provide
 # Footer
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+t  
+  
+t  
+  
+t  
+  
+t  
+  
+t  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+t  
+t  
+t  
+t 
+t  
+t 
+t 
+t 
+t 
+t 
+t 
+t 
 ## Contact 
 
 
