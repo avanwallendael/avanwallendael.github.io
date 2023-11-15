@@ -1,5 +1,3 @@
-## Banner
-
 <div id="banner">
   VANLAB  
   <!-- Add content or text for the banner here if needed -->
