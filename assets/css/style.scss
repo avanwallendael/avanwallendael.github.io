@@ -28,7 +28,12 @@ header {
     width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+    order: 1; /* Set the order of h1 to 1 to move it to the bottom */
+    margin-top: auto; /* Align h1 to the bottom of the container */
+}
+
+h2, h3, h4, h5, h6 {
     color: #606C38; /* Change the color of all headers*/
     width: 100%;
 }
