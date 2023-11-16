@@ -47,8 +47,9 @@
 [Go to Test Page](test_page.md)
 
 ## About
-
+<div class="special-paragraph">
 The VanWallendael lab is starting up at North Carolina State University in January 2024! We are housed in the Horticulture building on main campus within the Weed Science program. Our lab's focus is on the intersection between evolutionary genetics and weed science. We collaborate widely to use evolutionary concepts to understand weed management, and to use weeds and invasive species as empirical evolutionary models. We study many aspects of weed science, using ecology, evolution, and genetics to understand large-scale ecological patterns and microevolutionary processes. 
+</div>
 
 ## Research
 
