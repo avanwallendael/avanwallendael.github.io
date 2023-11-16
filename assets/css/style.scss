@@ -19,7 +19,7 @@ body {
     display: flex;
     flex-direction: column;
     /* box-sizing: border-box;*/
-    width: 80%;
+    width: 100%;
 }
 
 header {
@@ -147,7 +147,7 @@ nav a:hover {
 
 
 main {
-    padding: 0;
+    padding: 100px;
     background-color: #606C38;
     color: #DDA15E;
     width: 80%;
