@@ -2,7 +2,7 @@
   <div class="cta-buttons">
       <a href="#about" class="cta-button">About</a>
       <a href="#teaching" class="cta-button">Teaching</a>
-      <a href="#research" class="cta-button">joining-the-lab</a>
+      <a href="#research" class="cta-button">Research</a>
   </div>
   <!-- Add content or text for the banner here if needed -->
       
@@ -24,7 +24,7 @@
   </div>
 
   <div class="icon-link">
-    <a href="#teaching">
+    <a href="#research">
       <!-- Use your icon image URL here -->
       <img src="assets/images/icon1.png" alt="Research">
     </a>
@@ -32,11 +32,11 @@
   </div>
 
   <div class="icon-link">
-    <a href="#research">
+    <a href="#joining-the-lab">
       <!-- Use your icon image URL here -->
-      <img src="assets/images/icon2.png" alt="Research">
+      <img src="assets/images/icon2.png" alt="Joining the Lab">
     </a>
-    <p>Weed science and genetics</p>
+    <p>Joining the lab</p>
   </div>
 </div>
 
