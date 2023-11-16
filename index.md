@@ -18,7 +18,7 @@
   <div class="icon-link">
     <a href="#about">
       <!-- Use your icon image URL here -->
-      <img src="icon1.png" alt="About">
+      <img src="assets/images/icon1.png" alt="About">
     </a>
     <p>Learn more</p>
   </div>
@@ -26,7 +26,7 @@
   <div class="icon-link">
     <a href="#teaching">
       <!-- Use your icon image URL here -->
-      <img src="icon2.png" alt="Teaching">
+      <img src="assets/images/icon2.png" alt="Teaching">
     </a>
     <p>Study in our program</p>
   </div>
@@ -34,7 +34,7 @@
   <div class="icon-link">
     <a href="#research">
       <!-- Use your icon image URL here -->
-      <img src="icon3.png" alt="Research">
+      <img src="assets/images/icon3.png" alt="Research">
     </a>
     <p>Weed science and genetics</p>
   </div>
