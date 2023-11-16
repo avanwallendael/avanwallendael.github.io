@@ -6,7 +6,7 @@
   </div>
   <!-- Add content or text for the banner here if needed -->
       
-  <h1>Welcome to VANLAB</h1>
+  <h1>Welcome to the VANLAB</h1>
   <p>WEBSITE UNDER CONSTRUCTION</p>
   <p>Genetic diversity in locally adapted and invasive plants</p>
   
