@@ -124,6 +124,28 @@ nav a:hover {
 
 
 
+#icon-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px; /* Adjust the margin as needed */
+  color: #BC6C25;
+}
+
+.icon-link {
+  text-align: center;
+}
+
+.icon-link img {
+  width: 100px; /* Adjust the width of your icons */
+  height: 100px; /* Adjust the height of your icons */
+  /* border-radius: 50%; Makes the icons circular; adjust or remove as needed */
+}
+
+
+
+
+
 main {
     padding: 0;
     background-color: #606C38;
