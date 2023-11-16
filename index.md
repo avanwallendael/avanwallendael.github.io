@@ -2,7 +2,7 @@
   <div class="cta-buttons">
       <a href="#about" class="cta-button">About</a>
       <a href="#teaching" class="cta-button">Teaching</a>
-      <a href="#research" class="cta-button">Research</a>
+      <a href="#research" class="cta-button">joining-the-lab</a>
   </div>
   <!-- Add content or text for the banner here if needed -->
       
@@ -18,23 +18,23 @@
   <div class="icon-link">
     <a href="#about">
       <!-- Use your icon image URL here -->
-      <img src="assets/images/icon1.png" alt="About">
+      <img src="assets/images/icon3.png" alt="About">
     </a>
-    <p>Learn more</p>
+    <p>About the VanLab</p>
   </div>
 
   <div class="icon-link">
     <a href="#teaching">
       <!-- Use your icon image URL here -->
-      <img src="assets/images/icon2.png" alt="Teaching">
+      <img src="assets/images/icon1.png" alt="Research">
     </a>
-    <p>Study in our program</p>
+    <p>Research Focus/p>
   </div>
 
   <div class="icon-link">
     <a href="#research">
       <!-- Use your icon image URL here -->
-      <img src="assets/images/icon3.png" alt="Research">
+      <img src="assets/images/icon2.png" alt="Research">
     </a>
     <p>Weed science and genetics</p>
   </div>
@@ -48,23 +48,37 @@
 
 ## About
 
-I am a postdoc at Michigan State University in Lansing, MI. I work in the Lowry lab studying the genetic basis of biofuel switchgrass interactions with leaf fungi, and the evolution of weediness in relatives of the drought-tolerant grain crop proso millet.
-
-I am a plant evolutionary ecologist interested in how genetic variation can determine how constrained populations are to particular environments. I study both locally adapted plants and invasive ones, using population and quantitative genetic approaches to determine the contribution of genetic variation to success across habitats. My research has explored the roles of both abiotic factors such as climate and biotic factors such as the fungal microbiome interacting with genetic diversity to control species ranges.
+The VanWallendael is starting up at North Carolina State University in January 2024! We are housed in the Horticulture building on main campus within the Weed Science program. Our lab's focus is on the intersection between evolutionary genetics and weed science. We collaborate widely to use evolutionary concepts to understand weed management, and to use weeds and invasive species as empirical evolutionary models. We study many aspects of weed science, using ecology, evolution, and genetics to understand large-scale ecological patterns and microevolutionary processes. 
 
 ## Research
 
-My goal as a researcher is to understand how organisms adapt to novel and rapidly changing environments. In particular, I study invasive and locally adapted plants as model systems to learn about the genetics underlying traits that aid adaptation to stressful biotic and abiotic conditions. My recent research has examined host-microbe interactions in the plant leaf, the genomic basis of local adaptation to fungal pathogens, and stress tolerance in weedy relatives of domesticated species. My research has taken me in numerous directions in ecology, genetics, evolution, and microbiology, and I look forward to all of the places it will take me in the future.
+### Weedy proso millet
+
+A focal species for the lab is proso millet (*Panicum miliaceum*), a plant that grows both as a drought-tolerant crop, and an invasive weed in many parts of the world. We are uncovering historical diversification in this crop through population genetics and uncovering mechanisms of drought tolerance through comparative genomics. 
+
+### Weed populations over time 
+
+A major focus of the lab is understanding the genetic changes that occur in weed populations, and to use these to both predict emerging problem weeds and track rapid evolution in real-time. We will be establishing sites and recruiting collaborators continuously thorughout this project.
+
+### Previous research
+
+My previous research focused on plant-fungal relationships and local adaptation in switchgrass at Michigan State University, as well as invasion biology of Japanese knotweed at Fordham University.
+[Acer V. Google Scholar](https://scholar.google.com/citations?user=i8c_0TsAAAAJ&hl=en)
+
+## Joining the lab
+
+Please contact Dr. VanWallendael if you are interested in joining the lab! As specific funded positions come available, we will post them here. 
 
 ## Teaching
 
-One of the most amazing attributes of that natural world is that it becomes endlessly more fascinating the more you know about it. My goal as a biology teacher is to inspire this fascination in my students and to give them the tools they need to ask new questions about biological phenomena. I accomplish this goal by first building students’ interest and knowledge through detailed natural examples. I then allow students to pursue topics of their interest in inquiry-based projects.
-
-My teaching philosophy rests on the idea that, as long as they have been provided with the appropriate tools and inspiration, students learn best when they are free to choose topics that interest them. I have applied this philosophy in several classes over my career, with some truly outstanding results. Below are some educational materials I have designed, and some outcomes of exercises from my students. 
-
+At NCSU I am teaching Weed Biology ([CS 716](https://wolfware.ncsu.edu/courses/details/?sis_id=SIS:2024:1:1:CS:716:001)) each spring. 
 
 ## Contact 
 
+Dr. VanWallendael can be contacted at:
+[vanwaax07@gmail.com](vanwaax07@gmail.com)
+
+Lab code can be found on [Github](https://github.com/avanwallendael/)
 
 
 
