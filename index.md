@@ -28,7 +28,7 @@
       <!-- Use your icon image URL here -->
       <img src="assets/images/icon1.png" alt="Research">
     </a>
-    <p>Research Focus/p>
+    <p>Research Focus</p>
   </div>
 
   <div class="icon-link">
