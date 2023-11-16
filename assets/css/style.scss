@@ -85,7 +85,10 @@ nav a:hover {
 
 
 .special-paragraph {
-  color: blue;
+  color: red;
+  display: flex;
+  align-items: center;
+  justify_content: center;
   width: 80%;
 }
 
