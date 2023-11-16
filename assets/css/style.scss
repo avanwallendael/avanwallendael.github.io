@@ -19,7 +19,7 @@ body {
     display: flex;
     flex-direction: column;
     /* box-sizing: border-box;*/
-    /*width: 90%;*/
+    width: 90%;
 }
 
 header {
@@ -52,7 +52,8 @@ h2, h3, h4, h5, h6 {
 }
 
 .container-lg {
-    max-width: none; /* Remove the maximum width constraint */
+    /*max-width: none;  Remove the maximum width constraint */
+  width
 }
 
 .px-3 {
