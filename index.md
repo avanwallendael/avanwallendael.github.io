@@ -68,8 +68,8 @@ A major focus of the lab is understanding the genetic changes that occur in weed
 ### Previous research
 
 <div class="special-paragraph">
-My previous research focused on plant-fungal relationships and local adaptation in switchgrass at Michigan State University, as well as invasion biology of Japanese knotweed at Fordham University.
-[Acer V. Google Scholar](https://scholar.google.com/citations?user=i8c_0TsAAAAJ&hl=en)
+  My previous research focused on plant-fungal relationships and local adaptation in switchgrass at Michigan State University, as well as invasion     biology of Japanese knotweed at Fordham University.
+  [Acer V. Google Scholar](https://scholar.google.com/citations?user=i8c_0TsAAAAJ&hl=en)
 </div>
 
 ## Joining the lab
