@@ -34,13 +34,15 @@ header {
 
 h1 a {
   font-size: 0;
+  margin: 1em;
   /*margin: 0 0;*/
   display: none;
 }
 
 h2, h3, h4, h5, h6 {
-    color: #606C38; /* Change the color of all headers*/
-    width: 90%;
+  color: #606C38; /* Change the color of all headers*/
+  margin: 1em;
+  width: 90%;
 }
 
 #container {
@@ -53,8 +55,8 @@ h2, h3, h4, h5, h6 {
 }
 
 .container-lg {
-    /*max-width: none;  Remove the maximum width constraint */
-  width: 70%
+    /*SET WIDTH HERE */
+  /* width: 70% */
 }
 
 .px-3 {
@@ -93,7 +95,7 @@ nav a:hover {
   align-items: center;
   justify-content: center;
   width: 90%;
-  
+  margin: 1em;
 }
 
 
