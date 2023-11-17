@@ -54,33 +54,33 @@ The VanWallendael lab is starting up at North Carolina State University in Janua
 ## Research
 
 ### Weedy proso millet
-
+<div class="special-paragraph">
 A focal species for the lab is proso millet (*Panicum miliaceum*), a plant that grows both as a drought-tolerant crop, and an invasive weed in many parts of the world. We are uncovering historical diversification in this crop through population genetics and uncovering mechanisms of drought tolerance through comparative genomics. 
-
+</div>
 ### Weed populations over time 
-
+<div class="special-paragraph">
 A major focus of the lab is understanding the genetic changes that occur in weed populations, and to use these to both predict emerging problem weeds and track rapid evolution in real-time. We will be establishing sites and recruiting collaborators continuously thorughout this project.
-
+</div>
 ### Previous research
-
+<div class="special-paragraph">
 My previous research focused on plant-fungal relationships and local adaptation in switchgrass at Michigan State University, as well as invasion biology of Japanese knotweed at Fordham University.
 [Acer V. Google Scholar](https://scholar.google.com/citations?user=i8c_0TsAAAAJ&hl=en)
-
+</div>
 ## Joining the lab
-
+<div class="special-paragraph">
 Please contact Dr. VanWallendael if you are interested in joining the lab! As specific funded positions come available, we will post them here. 
-
+</div>
 ## Teaching
-
+<div class="special-paragraph">
 At NCSU I am teaching Weed Biology ([CS 716](https://wolfware.ncsu.edu/courses/details/?sis_id=SIS:2024:1:1:CS:716:001)) each spring. 
-
+</div>
 ## Contact 
-
+<div class="special-paragraph">
 Dr. VanWallendael can be contacted at:
 [vanwaax07@gmail.com](vanwaax07@gmail.com)
 
 Lab code can be found on [Github](https://github.com/avanwallendael/)
-
+</div>
 
 
 
