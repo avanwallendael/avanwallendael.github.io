@@ -90,7 +90,7 @@ At NCSU I am teaching Weed Biology ([CS 716](https://wolfware.ncsu.edu/courses/d
 Dr. VanWallendael can be contacted at:
 <a href="vanwaax07@gmail.com">vanwaax07@gmail.com</a>
 
-Lab code can be found on [Github](https://github.com/avanwallendael/)
+Lab code can be found on <a href="https://github.com/avanwallendael/">Github</a>
 </div>
 
 
