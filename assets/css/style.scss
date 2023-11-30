@@ -54,7 +54,7 @@ h1 a {
   display: none;
 }
 
-@keyframes textAnimation {
+/*@keyframes textAnimation {
   0% { opacity: 1; }
   50% { opacity: 0; }
   100% { opacity: 1; }
@@ -62,7 +62,7 @@ h1 a {
 
 #animatedText {
   animation: textAnimation 2s infinite; /* Adjust the duration as needed */
-}
+}*/
 
 
 h2, h3, h4, h5, h6 {
