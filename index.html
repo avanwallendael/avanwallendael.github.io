@@ -23,9 +23,17 @@
  <h1><span id="animatedText">Studying <span id="dynamicText">weeds</span></span></h1>
 
   <script>
-    setTimeout(function() {
-      document.getElementById('dynamicText').textContent = 'evolution';
-    }, 2000); // Adjust the time when you want to change the text
+    // Array of words to switch between
+    const words = ['weeds', 'evolution'];
+    let currentIndex = 0;
+
+    function switchText() {
+      document.getElementById('dynamicText').textContent = words[currentIndex];
+      currentIndex = (currentIndex + 1) % words.length;
+    }
+
+    // Switch text every 2 seconds (adjust as needed)
+    setInterval(switchText, 2000);
   </script>
   <p>WEBSITE UNDER CONSTRUCTION</p>
   <p>Genetic diversity in locally adapted and invasive plants</p>
