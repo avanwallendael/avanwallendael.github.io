@@ -109,12 +109,22 @@ nav a:hover {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
+  /*justify-content: center;
   /*width: 90%;*/
   margin: 2em;
 }
 
+.special-paragraph a {
+  /* Styles for links within .special-paragraph */
+  color: #0066cc; /* Adjust link color as needed */
+  /*text-decoration: underline; /* Add underline to links */
+  margin-right: 1em; /* Add spacing between links and other text */
+}
 
+.special-paragraph em {
+  /* Styles for italicized text within .special-paragraph */
+  font-style: italic;
+}
 
 
 .cta-buttons {
