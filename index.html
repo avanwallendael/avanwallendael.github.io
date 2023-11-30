@@ -8,6 +8,19 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Work+Sans:wght@300&display=swap" rel="stylesheet"> 
     
+    <style>
+    /* Add a blinking cursor */
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+
+    #dynamicText::after {
+      content: '|';
+      display: inline-block;
+      animation: blink 1s infinite; /* Blink every 1 second */
+    }
+  </style>
   </head>
 
 <!-- BANNER -->
@@ -20,20 +33,26 @@
   </div>
   <!-- Add content or text for the banner here if needed -->
       
- <h1><span id="animatedText">Studying <span id="dynamicText">weeds</span></span></h1>
+      <h1>Studying <span id="dynamicText"></span></h1>
 
   <script>
-    // Array of words to switch between
     const words = ['weeds', 'evolution'];
     let currentIndex = 0;
+    let currentWord = '';
+    let charIndex = 0;
 
-    function switchText() {
-      document.getElementById('dynamicText').textContent = words[currentIndex];
-      currentIndex = (currentIndex + 1) % words.length;
+    function retypeText() {
+      currentWord = words[currentIndex];
+      document.getElementById('dynamicText').textContent = currentWord.substring(0, charIndex);
+      charIndex++;
+
+      if (charIndex > currentWord.length) {
+        charIndex = 0;
+        currentIndex = (currentIndex + 1) % words.length;
+      }
     }
 
-    // Switch text every 2 seconds (adjust as needed)
-    setInterval(switchText, 2000);
+    setInterval(retypeText, 150); // Adjust the interval as needed
   </script>
   <p>WEBSITE UNDER CONSTRUCTION</p>
   <p>Genetic diversity in locally adapted and invasive plants</p>
