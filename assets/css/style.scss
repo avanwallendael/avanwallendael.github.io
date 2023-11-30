@@ -119,6 +119,7 @@ nav a:hover {
   color: #0066cc; /* Adjust link color as needed */
   /*text-decoration: underline; /* Add underline to links */
   margin-right: 1em; /* Add spacing between links and other text */
+  flex-direction: row;
 }
 
 .special-paragraph em {
