@@ -20,7 +20,13 @@
   </div>
   <!-- Add content or text for the banner here if needed -->
       
-  <h1><span id="animatedText">Studying weeds</span></h1>
+ <h1><span id="animatedText">Studying <span id="dynamicText">weeds</span></span></h1>
+
+  <script>
+    setTimeout(function() {
+      document.getElementById('dynamicText').textContent = 'evolution';
+    }, 2000); // Adjust the time when you want to change the text
+  </script>
   <p>WEBSITE UNDER CONSTRUCTION</p>
   <p>Genetic diversity in locally adapted and invasive plants</p>
   
