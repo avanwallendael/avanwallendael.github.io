@@ -126,7 +126,7 @@ nav a:hover {
   display: flex;
   flex-direction: row;
   align-items: center;
-  /*justify-content: center;
+  justify-content: space-between;
   /*width: 90%;*/
   margin: 2em;
 }
@@ -146,6 +146,14 @@ nav a:hover {
   flex-direction: row;
 }
 
+.special-paragraph img {
+      max-width: 30%; /* Adjust the width as needed */
+      height: 200px;
+      border-radius: 8px; /* Optional: Add rounded corners */
+      margin-left: 2em;
+      margin-right: 2em;
+    }
+
 .image-container {
       display: flex;
       align-items: center;
@@ -155,8 +163,10 @@ nav a:hover {
 
 .image-container img {
       max-width: 30%; /* Adjust the width as needed */
-      height: 300px;
+      height: 200px;
       border-radius: 8px; /* Optional: Add rounded corners */
+      margin-left: 2em;
+      margin-right: 2em;
     }
 
 
