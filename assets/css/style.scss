@@ -18,6 +18,7 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
+    margin-left: 2em;
     /*width: 90%;*/
     /* box-sizing: border-box;*/
 }
@@ -153,7 +154,7 @@ nav a:hover {
 
 .image-container img {
       max-width: 30%; /* Adjust the width as needed */
-      border-radius: 4px; /* Optional: Add rounded corners */
+      border-radius: 8px; /* Optional: Add rounded corners */
     }
 
 
