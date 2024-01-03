@@ -150,11 +150,12 @@ nav a:hover {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      margin: 20px 0;
+      margin: 40px 0;
     }
 
 .image-container img {
       max-width: 30%; /* Adjust the width as needed */
+      height: 300px;
       border-radius: 8px; /* Optional: Add rounded corners */
     }
 
