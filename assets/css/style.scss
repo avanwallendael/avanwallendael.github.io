@@ -253,3 +253,85 @@ section {
     padding: 20px;
     color: #283618;
 }
+
+/* Responsive adjustments for mobile */
+@media (max-width: 768px) {
+    body {
+        margin-left: 1em;
+        margin-right: 1em;
+        font-size: 14px; /* Adjust font size for readability on small screens */
+    }
+
+    #banner {
+        height: 200px; /* Reduce banner height for mobile */
+    }
+
+    .site-title {
+        font-size: 20px; /* Adjust site title size */
+    }
+
+    header {
+        font-size: 16px;
+        padding: 0.5em; /* Reduce padding */
+        margin: 0.5em 0;
+    }
+
+    h1 a {
+        font-size: 24px;
+        display: block; /* Display h1 links on mobile */
+    }
+
+    h2, h3, h4, h5, h6 {
+        font-size: 18px; /* Scale down header sizes */
+        margin: 0.5em;
+        width: 100%; /* Set to full width */
+    }
+
+    .special-paragraph {
+        flex-direction: column; /* Stack elements vertically */
+        margin: 1em 0;
+    }
+
+    .special-paragraph img,
+    .image-container img {
+        max-width: 90%; /* Set images to nearly full width on mobile */
+        height: auto;
+        margin: 1em 0;
+    }
+
+    .cta-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cta-button {
+        font-size: 14px;
+        width: 80%; /* Adjust button size */
+        margin: 5px 0;
+    }
+
+    #icon-section {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+
+    #icon-section img {
+        max-width: 100px;
+        max-height: 100px;
+    }
+
+    main, #main_content, #downloads, section {
+        width: 100%;
+        padding: 20px;
+    }
+
+    nav ul li {
+        display: block; /* Stack navigation links */
+        margin: 5px 0;
+    }
+
+    .inner, .container-lg {
+        width: 100%;
+        max-width: 100%;
+    }
+}
