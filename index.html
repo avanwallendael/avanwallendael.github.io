@@ -33,8 +33,8 @@
       <a href="#contact" class="cta-button">Contact</a>
   </div>
   <!-- Add content or text for the banner here if needed -->
-      
-       <h1>Studying <span id="dynamicText"></span></h1>
+   
+     <!--     <h1>Studying <span id="dynamicText"></span></h1>
 
     <script>
     const words = ['weeds', 'evolution'];
@@ -54,8 +54,49 @@
     }
 
     setInterval(retypeText, 300); // Adjust the interval as needed
-  </script>    
-  
+  </script>    -->
+
+      <h1>Studying <span id="dynamicText"></span></h1>
+
+<script>
+    const words = ['weeds', 'evolution'];
+    let currentIndex = 0;
+    let charIndex = 0;
+    let isDeleting = false;
+    const typingSpeed = 300;    // Typing speed in milliseconds
+    const pauseTime = 1500;     // Pause after typing each word in milliseconds
+
+    function retypeText() {
+        const currentWord = words[currentIndex];
+        const displayElement = document.getElementById('dynamicText');
+
+        if (isDeleting) {
+            displayElement.textContent = currentWord.substring(0, charIndex);
+            charIndex--;
+
+            if (charIndex < 0) {
+                isDeleting = false;
+                currentIndex = (currentIndex + 1) % words.length; // Move to the next word
+                setTimeout(retypeText, typingSpeed);  // Pause before retyping
+            } else {
+                setTimeout(retypeText, typingSpeed);
+            }
+        } else {
+            displayElement.textContent = currentWord.substring(0, charIndex);
+            charIndex++;
+
+            if (charIndex > currentWord.length) {
+                isDeleting = true;
+                setTimeout(retypeText, pauseTime);  // Pause after typing a word
+            } else {
+                setTimeout(retypeText, typingSpeed);
+            }
+        }
+    }
+
+    retypeText();  // Start the typing effect
+</script>
+
       
   <h1>WELCOME TO THE VANLAB</h1>    
   <p>Genetic diversity in locally adapted, weedy, and invasive plants</p>
